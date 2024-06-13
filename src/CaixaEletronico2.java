@@ -1,5 +1,6 @@
 public class CaixaEletronico2 {
     public static void main(String[] args) throws Exception {
+        //CONDICIONAL SIMPLES
         double saldo = 25.0;
         double valorDepositado = 17.0;
 
